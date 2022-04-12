@@ -52,7 +52,7 @@
   margin-left: 44%;
 }
 .ipField{
-  margin-left: 36%;
+  text-align: center;
 }
 .ipTxt{
   margin-top: 20px;
@@ -64,8 +64,8 @@
   height: 40px;
   width: 200px;
   margin-top: 5px;
-  margin-left: 11%;
-  background-color: #61dafb;
+  margin-left: 10px;
+  background-color: #0bca34;
   color: white;
   font-weight: bold;
   border-radius: 15px;
@@ -77,7 +77,8 @@
 .xBtn{
   cursor: pointer;
   margin-left: 5px;
-  background-color: rgb(7, 31, 168);
+  border: none;
+  background-color: rgb(240, 55, 55);
   color: white;
   width: 50px;
 }

@@ -15,7 +15,6 @@ function TodoInput({ onSubmit, label = "Add Todo", inputValue }) {
           setValue(e.target.value);
         }}
       ></input>
-      <br></br>
       <button
         className="ipBtn"
         onClick={() => {
